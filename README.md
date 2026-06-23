@@ -7,7 +7,7 @@
 Construyo herramientas abiertas que cualquiera puede tocar y entender — del colegio a la investigación.
 El **Pharos Project**: infraestructura científica y educativa sin barreras de entrada.
 
-**[▶ Explorar el ecosistema](https://kegouro.github.io)**  ·  [GitHub](https://github.com/kegouro)  ·  [ORCID](https://orcid.org/)  ·  [Zenodo](https://zenodo.org/)
+**[▶ Explorar el ecosistema](https://kegouro.github.io)**  ·  [GitHub](https://github.com/kegouro)  ·  [ORCID](https://orcid.org/0009-0006-8890-4048)  ·  [Zenodo](https://zenodo.org/search?q=orcid:0009-0006-8890-4048)
 
 </div>
 
