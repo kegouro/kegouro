@@ -1,12 +1,15 @@
-![Pharos · By JLB](assets/banner.png)
+<div align="center">
 
-# José Labarca Baeza
+[![Pharos · By JLB](assets/banner.png)](https://kegouro.github.io)
 
-**Lic. en Física · USM, Valparaíso, Chile**
+### *La física debería verse, no solo leerse.*
 
-*Infraestructura científica y educativa sin barreras de entrada — el **Pharos Project**.*
+Construyo herramientas abiertas que cualquiera puede tocar y entender — del colegio a la investigación.
+El **Pharos Project**: infraestructura científica y educativa sin barreras de entrada.
 
-[**▶ Explorar el ecosistema**](https://kegouro.github.io) · [GitHub](https://github.com/kegouro) · [ORCID](https://orcid.org/) · [Zenodo](https://zenodo.org/)
+**[▶ Explorar el ecosistema](https://kegouro.github.io)**  ·  [GitHub](https://github.com/kegouro)  ·  [ORCID](https://orcid.org/)  ·  [Zenodo](https://zenodo.org/)
+
+</div>
 
 ---
 
@@ -23,7 +26,7 @@
 
 | Repo | Qué hace | Stack | Estado |
 | :--- | :--- | :--- | :--- |
-| [**spmkit**](https://github.com/kegouro/spmkit) | Análisis de datos AFM/KPFM, validado contra Gwyddion | Python · GUI web | ✅ Vivo |
+| [**spmkit**](https://github.com/kegouro/spmkit) | Análisis de datos AFM/KPFM, validado contra Gwyddion · [info](https://kegouro.github.io/spmkit/) | Python · GUI web | ✅ Vivo |
 | [**virtualspm**](https://github.com/kegouro/virtualspm) | Gemelo digital de un SPM: simula → genera → analiza con spmkit | Python | 🔜 Próximamente |
 | [**lablog**](https://github.com/kegouro/lablog) | Bitácora de lab con LaTeX nativo, tablas con fórmulas y export a paper | TypeScript · KaTeX | 🔜 Próximamente |
 
@@ -43,8 +46,16 @@
 
 ---
 
+<div align="center">
+<sub>
+
 ```
 ┌─
 │ Pharos Project · José Labarca Baeza
 └─ USM · Valparaíso · Chile
 ```
+
+[**kegouro.github.io**](https://kegouro.github.io)
+
+</sub>
+</div>
