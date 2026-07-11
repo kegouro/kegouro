@@ -28,7 +28,7 @@ El **Pharos Project**: infraestructura científica y educativa sin barreras de e
 | :--- | :--- | :--- | :--- |
 | [**spmkit**](https://github.com/kegouro/spmkit) | Análisis de datos AFM/KPFM, validado contra Gwyddion · [info](https://kegouro.github.io/spmkit/) | Python · GUI web | ✅ Vivo |
 | [**virtualspm**](https://github.com/kegouro/virtualspm) | Gemelo digital de un SPM: simula → genera → analiza con spmkit | Python | 🔜 Próximamente |
-| [**lablog**](https://github.com/kegouro/lablog) | Bitácora de lab con LaTeX nativo, tablas con fórmulas y export a paper | TypeScript · KaTeX | 🔜 Próximamente |
+| [**lablog**](https://github.com/kegouro/lablog) | Bitácora LaTeX-nativa local-first: celdas, voz, bóveda, PDF Tectonic, export Jupyter · [docs](https://kegouro.github.io/lablog/) · [PyPI](https://pypi.org/project/jose-labarca-lablog/) | Python · React · KaTeX | ✅ Vivo (v0.3.1) |
 
 ### 🛰️ Simulación — *c++ · investigación*
 
@@ -41,7 +41,7 @@ El **Pharos Project**: infraestructura científica y educativa sin barreras de e
 
 | Repo | Qué hace |
 | :--- | :--- |
-| [**omniconvert**](https://github.com/kegouro/Omniconvert) | Conversor universal de formatos encadenando convertidores por BFS |
+| [**omniconvert**](https://github.com/kegouro/Omniconvert) | Conversor universal de formatos encadenando convertidores por BFS · ✅ Vivo (v1.0.1) · [DOI](https://doi.org/10.5281/zenodo.21303287) |
 | [**pagina-web**](https://github.com/kegouro/Pagina-web) | Material para clases online |
 
 ---
