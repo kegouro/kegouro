@@ -23,7 +23,7 @@ I currently focus on **AFM/SPM analysis**, public dataset curation, scientific v
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/ascii-art-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/ascii-art-light.svg">
-    <img src="./assets/ascii-art-dark.svg" width="100%" alt="Creation of Adam ASCII Art">
+    <img src="./assets/ascii-art-dark.svg" width="70%" alt="Creation of Adam ASCII Art">
   </picture>
 </p>
 <p align="center"><sub>The Creation of Adam</sub></p>
