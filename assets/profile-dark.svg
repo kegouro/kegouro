@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="620" viewBox="0 0 1600 620" role="img" aria-labelledby="title desc">
+<title id="title">José Labarca</title>
+<desc id="desc">Profile cover for José Labarca, undergraduate physicist working in experimental research and scientific software.</desc>
+<rect width="1600" height="620" fill="#0a0908"/>
+<rect x="58" y="52" width="1484" height="2" fill="#efe7d8" opacity=".18"/>
+<rect x="58" y="568" width="1484" height="5" fill="#f5a72c"/>
+
+<g font-family="Arial, Helvetica, sans-serif">
+  <text x="60" y="102" fill="#f5a72c" font-size="18" font-weight="700" letter-spacing="5">JLB / PROFILE / 2026</text>
+
+  <text x="52" y="285" fill="#efe7d8" font-size="162" font-weight="900" letter-spacing="-8">JOSÉ</text>
+  <text x="48" y="442" fill="#efe7d8" font-size="162" font-weight="900" letter-spacing="-8">LABARCA</text>
+
+  <text x="60" y="500" fill="#9a8a76" font-size="24" font-weight="600" letter-spacing="2">PHYSICS · EXPERIMENTAL RESEARCH · SCIENTIFIC SOFTWARE</text>
+
+  <line x1="1000" y1="86" x2="1000" y2="520" stroke="#efe7d8" opacity=".16" stroke-width="2"/>
+  <text x="1042" y="107" fill="#f5a72c" font-size="18" font-weight="700" letter-spacing="4">FIELD EXPERIENCE</text>
+
+  <text x="1042" y="170" fill="#efe7d8" font-size="30" font-weight="800">SPMLab · USM</text>
+  <text x="1450" y="170" fill="#9a8a76" font-size="19" text-anchor="end">2024—</text>
+  <text x="1042" y="201" fill="#9a8a76" font-size="19">AFM · Raman · microscopy · mechanics</text>
+
+  <text x="1042" y="268" fill="#efe7d8" font-size="30" font-weight="800">CCTVal · USM</text>
+  <text x="1450" y="268" fill="#9a8a76" font-size="19" text-anchor="end">2026—</text>
+  <text x="1042" y="299" fill="#9a8a76" font-size="19">data analysis · computational simulation</text>
+
+  <text x="1042" y="366" fill="#efe7d8" font-size="30" font-weight="800">Optolab · PUCV</text>
+  <text x="1450" y="366" fill="#9a8a76" font-size="19" text-anchor="end">2025—26</text>
+  <text x="1042" y="397" fill="#9a8a76" font-size="19">optical systems · data acquisition</text>
+
+  <text x="1042" y="464" fill="#efe7d8" font-size="30" font-weight="800">Optics Lab · USM</text>
+  <text x="1450" y="464" fill="#9a8a76" font-size="19" text-anchor="end">2025</text>
+  <text x="1042" y="495" fill="#9a8a76" font-size="19">assembly · calibration · analysis</text>
+
+  <text x="60" y="548" fill="#ff7a3c" font-size="17" font-weight="700" letter-spacing="3">PICHILEMU / VALPARAÍSO / KARLSRUHE</text>
+</g>
+</svg>
